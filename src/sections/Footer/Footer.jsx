@@ -9,8 +9,8 @@ export default function Footer() {
       <div>
         <SocialLinks />
       </div>
-      <span className={classes.colorize}>Designed</span> and <span className={classes.colorize}>built</span> <br />
-      by Krishna Moorthy
+      <span className={classes.colorize}>Copyright-</span><span className={classes.colorize}>2021 Aravind Murugan</span> <br />
+      All Right Reserved
     </div>
   );
 }

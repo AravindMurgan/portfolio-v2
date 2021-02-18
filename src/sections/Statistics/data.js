@@ -3,7 +3,7 @@ dotenv.config();
 
 const token = process.env.REACT_APP_TOKEN;
 const query = `query {
-                user(login: "KrishnaMoorthy12") {
+                user(login: "AravindMurgan") {
                   followers {
                     totalCount
                   }

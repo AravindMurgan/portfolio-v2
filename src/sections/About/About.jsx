@@ -19,51 +19,24 @@ export default function About() {
                 <span role='img' aria-label='wave emoji'>
                   👋
                 </span>{' '}
-                Hello, world! I am Krish, a software engineer from Chennai, India.
+                Hi Im Aravind
               </p>
               <p className={classes.description}>
-                I love to design and code{' '}
+                A passionate ui developer who loves to build breathtaking UI{' '}
                 <span role='img' aria-label='code emoji'>
                   👨🏼‍💻
                 </span>
-                . I build high-quality applications for the web. I concentrate on writing clean and understandable code.
-                Currently, I'm pursuing my undergrads{' '}
-                <span role='img' aria-label='code graduate'>
-                  👨‍🎓
-                </span>{' '}
-                in Computer Science Engineering at{' '}
-                <Link to='http://aubit.edu.in'>University College of Engineering, Trichy</Link>. I love to work in a
-                team.
+                . A Full Stack Developer,2 years experienced at building responsive websites
+                  with maintainable, reusable and clean code using latest technology.{' '}
+
               </p>
               <p className={classes.description}>
-                Other than coding, I'm passionate about Astronomy{' '}
-                <span role='img' aria-label='galaxy emoji'>
-                  🌌
-                </span>{' '}
-                and bicycling{' '}
-                <span role='img' aria-label='cycling emoji'>
-                  🚴‍♂️
-                </span>
-                . I like to cook in my leisure time. I love cats{' '}
-                <span role='img' aria-label='cat face emoji'>
-                  😺
-                </span>{' '}
-                and adore all pet animals{' '}
-                <span role='img' aria-label='pet dog emoji'>
-                  🐕
-                </span>
-                .
+              Feel free to connect with me! Let's talk about web dev, tech, sports, photography, video games, or how I can be of help to your team or business!
+               I'd love to get to know more developers and expand my network.
               </p>
             </div>
 
-            <figure className={classes.profile}>
-              <img
-                className={classes.image}
-                alt='Krish'
-                src={KrishMedium}
-                srcSet={`${KrishSmall} 300w, ${KrishMedium} 700w, ${KrishLarge} 1100w`}
-              />
-            </figure>
+           
           </div>
 
           <Skills />

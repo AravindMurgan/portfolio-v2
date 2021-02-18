@@ -21,7 +21,7 @@
   "scripts": {
     "format": "prettier --write \"**/*.{js,jsx,html,scss}\"",
     "format:check": "prettier -c \"**/*.{js,jsx,html,scss}\"",
-    "start": "env-cmd react-scripts start",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "eject": "react-scripts eject"
   },

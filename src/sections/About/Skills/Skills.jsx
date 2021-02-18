@@ -44,11 +44,6 @@ export default function Skills() {
           <span className='path2'></span>
         </span>
 
-        <span className='logo logo-typescript'>
-          <span className='path1'></span>
-          <span className='path2'></span>
-        </span>
-
         <span className='logo logo-java'>
           <span className='path1'></span>
           <span className='path2'></span>
@@ -57,10 +52,6 @@ export default function Skills() {
           <span className='path5'></span>
         </span>
 
-        <span className='logo logo-python'>
-          <span className='path1'></span>
-          <span className='path2'></span>
-        </span>
 
         <span className='logo logo-git'></span>
 
@@ -98,8 +89,6 @@ export default function Skills() {
           <span className='path4'></span>
         </span>
 
-        <span className='logo logo-fauna'></span>
-
         <span className='logo logo-mysql'></span>
 
         <span className='logo logo-postgresql'>
@@ -114,47 +103,6 @@ export default function Skills() {
         </span>
 
         <span className='logo logo-graphql' />
-
-        <span className='logo logo-apollo-graphql' />
-
-        <span className='logo logo-sequelize'>
-          <span className='path1'></span>
-          <span className='path2'></span>
-          <span className='path3'></span>
-          <span className='path4'></span>
-          <span className='path5'></span>
-          <span className='path6'></span>
-          <span className='path7'></span>
-          <span className='path8'></span>
-          <span className='path9'></span>
-          <span className='path10'></span>
-          <span className='path11'></span>
-          <span className='path12'></span>
-          <span className='path13'></span>
-          <span className='path14'></span>
-          <span className='path15'></span>
-          <span className='path16'></span>
-          <span className='path17'></span>
-          <span className='path18'></span>
-          <span className='path19'></span>
-          <span className='path20'></span>
-          <span className='path21'></span>
-          <span className='path22'></span>
-          <span className='path23'></span>
-          <span className='path24'></span>
-          <span className='path25'></span>
-          <span className='path26'></span>
-          <span className='path27'></span>
-        </span>
-
-        <span className='logo logo-figma'>
-          <span className='path1'></span>
-          <span className='path2'></span>
-          <span className='path3'></span>
-          <span className='path4'></span>
-          <span className='path5'></span>
-          <span className='path6'></span>
-        </span>
       </div>
     </div>
   );

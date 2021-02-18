@@ -60,7 +60,7 @@ export default function Statistics() {
 
           <Fade bottom distance={'6rem'} delay={1}>
             <div className={classes.cta}>
-              <Button link='https://github.com/KrishnaMoorthy12'>
+              <Button link='https://github.com/AravindMurgan'>
                 <span className='icon icon-github' />
                 GitHub Profile
               </Button>

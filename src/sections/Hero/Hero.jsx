@@ -6,12 +6,12 @@ export default function Hero() {
   return (
     <section className={classes.hero}>
       <div className={classes.container}>
-        <h5 className={classes.intro}>Hi, my name is</h5>
+        <h5 className={classes.intro}>Hello, Im</h5>
         <h1 className={classes.hero__name}>
-          <span className={classes.emphasize}>Krishna</span>
-          <span> Moorthy</span>
+          <span className={classes.emphasize}>Aravind</span>
+          <span> Murugan</span>
         </h1>
-        <h2 className={classes.info}>UI/ UX designer & Full stack developer</h2>
+        <h2 className={classes.info}>UI Developer</h2>
       </div>
 
       <div role='img' className={classes.waterMark}>
@@ -19,11 +19,11 @@ export default function Hero() {
       </div>
 
       <div className={classes.quickContact}>
-        <Link to='mailto: akrishnamoorthy007@gmail.com' lone>
-          akrishnamoorthy007@gmail.com
+        <Link to='mailto: mi.arvindmurugan@gmail.com' lone>
+        mi.arvindmurugan@gmail.com
         </Link>
-        <Link to='https://twitter.com/krish_the_dev' lone>
-          twitter/@krish_the_dev
+        <Link to='https://www.linkedin.com/in/aravindmurgan/' lone>
+          linkedin@aravindmurugan
         </Link>
       </div>
     </section>
