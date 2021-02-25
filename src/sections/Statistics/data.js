@@ -2,6 +2,7 @@ import dotenv from 'dotenv';
 dotenv.config();
 
 const token = process.env.REACT_APP_TOKEN;
+console.log(token);
 const query = `query {
                 user(login: "AravindMurgan") {
                   followers {
